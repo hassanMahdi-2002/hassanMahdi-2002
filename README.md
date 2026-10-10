@@ -140,7 +140,7 @@ An interactive country exploration application that displays country information
 
 **Tech Stack:** React.js, JavaScript, Vite, Tailwind CSS.
 
-🔗 [Live Demo](YOUR_COUNTRIES_LIVE_DEMO) | [Source Code](YOUR_COUNTRIES_GITHUB_REPO)
+🔗 [Live Demo](https://around-the-world-two-sigma.vercel.app/) | [Source Code](https://github.com/hassanMahdi-2002/around-the-world)
 
 ### 📦 Product Management System
 
