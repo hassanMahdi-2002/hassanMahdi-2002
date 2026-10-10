@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" /> &nbsp; &nbsp; 
   <img src="https://skillicons.dev/icons?i=postman" /> &nbsp; &nbsp; 
   <img src="https://skillicons.dev/icons?i=xampp" /> &nbsp; &nbsp; 
-  <img src="https://skillicons.dev/icons?i=ai" />
+  <!-- <img src="https://skillicons.dev/icons?i=ai" /> -->
 </p>
 
 ## 📂 Featured Projects
