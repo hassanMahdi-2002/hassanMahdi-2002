@@ -148,7 +148,7 @@ A product management application that supports creating, displaying, updating, s
 
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Local Storage.
 
-🔗 [Live Demo]([YOUR_PRODUCT_MANAGEMENT_LIVE_DEMO](https://hassanmahdi-2002.github.io/product-management-system/)) | [Source Code]([YOUR_PRODUCT_MANAGEMENT_GITHUB_REPO](https://github.com/hassanMahdi-2002/product-management-system))
+🔗 [Live Demo](YOUR_PRODUCT_MANAGEMENT_LIVE_DEMO](https://hassanmahdi-2002.github.io/product-management-system/)) | [Source Code](YOUR_PRODUCT_MANAGEMENT_GITHUB_REPO](https://github.com/hassanMahdi-2002/product-management-system))
 
 ### ⚙️ VHDL Code Generator
 
