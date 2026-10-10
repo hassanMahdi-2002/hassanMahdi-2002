@@ -150,14 +150,6 @@ A product management application that supports creating, displaying, updating, s
 
 🔗 [Live Demo](https://hassanmahdi-2002.github.io/product-management-system/) | [Source Code](https://github.com/hassanMahdi-2002/product-management-system)
 
-### ⚙️ VHDL Code Generator
-
-A web-based tool for generating customizable VHDL code for digital logic components.
-
-**Tech Stack:** HTML, CSS, JavaScript, VHDL.
-
-🔗 [Source Code](YOUR_VHDL_GITHUB_REPO)
-
 ---
 
 ## 📊 GitHub Stats
