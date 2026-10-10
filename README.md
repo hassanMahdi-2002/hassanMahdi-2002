@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Hassan+Mahdi+%F0%9F%91%8B" alt="Hi there, I'm Hassan Mahdi" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Hassan+Mahdi+%F0%9F%91%8B" alt="Hi there, I'm Hassan Mahdi" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full--Stack_%26_AI_Developer-161b22?style=for-the-badge&color=22E58B&labelColor=0d1117" />
+<a href="#">
+  <img src="https://img.shields.io/badge/FULL--STACK%20%26%20AI%20DEVELOPER-22E58B?style=for-the-badge&labelColor=0d1117&color=22E58B" alt="Full-Stack & AI Developer" />
+</a>
 
-<p>Passionate about building scalable web applications, robust backend architectures, and intelligent solutions.</p>
+<br/><br/>
+
+<p align="center">
+  <i>Passionate about building scalable web applications, robust backend architectures, and intelligent solutions.</i>
+</p>
 
 </div>
 
@@ -14,13 +20,20 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Computer and Systems Engineering graduate with a strong foundation in software engineering and system design.
-* 🚀 Full-Stack Web Developer experienced in building end-to-end applications using the MERN stack (**MongoDB, Express.js, React.js, Node.js**).
-* 🛒 Built comprehensive e-commerce applications featuring dynamic product catalogs, cart management, secure authentication, and RESTful API integration (e.g., **FreshCart**).
-* ⚙️ Skilled in designing robust backend services, handling asynchronous requests, and managing relational and non-relational databases (**MySQL, MongoDB**).
-* 🧠 Passionate about exploring machine learning, computer vision, and AI tool integrations.
-* 🛠️ Proficient in modern developer tools, version control (**Git, GitHub**), and deployment workflows.
----
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td style="padding: 20px; border: none; color: #c9d1d9; line-height: 1.6;">
+      <p style="margin: 0 0 12px 0;">🎓 <b>Computer & Systems Engineering Graduate</b> with a strong foundation in software engineering and system architecture.</p>
+      <p style="margin: 0 0 12px 0;">🚀 <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b> (MongoDB, Express.js, React.js, Node.js).</p>
+      <p style="margin: 0 0 12px 0;">🛒 Developed full-fledged applications including e-commerce platforms (e.g., <b>FreshCart</b>) with dynamic catalogs, cart systems, and secure authentication.</p>
+      <p style="margin: 0 0 12px 0;">⚙️ Proficient in RESTful APIs, database design (<b>MySQL, MongoDB</b>), and modern frontend architecture.</p>
+      <p style="margin: 0 0 12px 0;">🧠 Deep interest in <b>AI, Computer Vision, and Machine Learning</b> integration into web platforms.</p>
+      <p style="margin: 0;">🛠️ Proficient in modern developer tools, version control (<b>Git, GitHub</b>), and deployment workflows.</p>
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=500&height=60&lines=Tech+Stack+%26+Skills" alt="Tech Stack & Skills" />
 
