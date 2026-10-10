@@ -26,95 +26,141 @@
 - 🚀 Continuously improving my skills and preparing to contribute to real-world development projects.
 
 ---
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=500&height=60&lines=Tech+Stack+%26+Skills" alt="Tech Stack & Skills" />
-
-<sub>Technologies and tools I use to build modern, fast and scalable web applications.</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Better%20Code%20•%20Better%20Products-0d1117?style=flat-square&labelColor=0d1117&color=22E58B" />
-
+  <h1 style="color: #3fb950; font-weight: bold;">Tech Stack & Skills</h1>
+  <p style="color: #8b949e;">Technologies and tools I use to build modern, fast and scalable web applications.</p>
+  <p><span style="background-color: #1f6feb; color: #fff; padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: bold;">Better Code • Better Products</span></p>
 </div>
 
----
+<br/>
 
-### 💻 Programming Languages
-
-<div align="center">
-<table>
+<!-- 1. Programming Languages -->
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="55" /><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=py" width="55" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="55" /><br/><sub><b>JavaScript</b></sub></td>
+    <td style="border: none; padding: 15px;">
+      <div style="font-weight: bold; color: #ffffff; margin-bottom: 15px; font-size: 16px;">💻 Programming Languages</div>
+      <div align="center">
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><span style="color: #8b949e; font-size: 12px;">C++</span></td>
+            <td style="border: none; width: 15px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=py" width="40"/><br><span style="color: #8b949e; font-size: 12px;">Python</span></td>
+            <td style="border: none; width: 15px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><span style="color: #8b949e; font-size: 12px;">JavaScript</span></td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
-</div>
 
----
-
-### 🖥️ Frontend Development &nbsp; <img src="https://img.shields.io/badge/UI_•_Components_•_Performance-161b22?style=flat-square" />
-
-<div align="center">
-<table>
+<!-- 2. Frontend Development -->
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="55" /><br/><sub><b>HTML</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="55" /><br/><sub><b>CSS</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br/><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=jquery" width="55" /><br/><sub><b>jQuery</b></sub></td>
-    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="55" /><br/><sub><b>React</b></sub></td>
+    <td style="border: none; padding: 15px;">
+      <table width="100%" style="border: none;">
+        <tr>
+          <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">🌐 Frontend Development</td>
+          <td style="border: none; text-align: right;"><span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 3px 8px; border-radius: 4px;">UI • Components • Performance</span></td>
+        </tr>
+      </table>
+      <div align="center" style="margin-top: 15px;">
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=html" width="35"/><br><span style="color: #8b949e; font-size: 11px;">HTML</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=css" width="35"/><br><span style="color: #8b949e; font-size: 11px;">CSS</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=tailwind" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Tailwind</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=bootstrap" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Bootstrap</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=jquery" width="35"/><br><span style="color: #8b949e; font-size: 11px;">jQuery</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=react" width="35"/><br><span style="color: #8b949e; font-size: 11px;">React</span></td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
-</div>
 
----
-
-### ⚙️ Backend Development &nbsp; <img src="https://img.shields.io/badge/APIs_•_Databases_•_Server-161b22?style=flat-square" />
-
-<div align="center">
-<table>
+<!-- 3. Backend Development -->
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="55" /><br/><sub><b>Express.js</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br/><sub><b>MongoDB</b></sub></td>
+    <td style="border: none; padding: 15px;">
+      <table width="100%" style="border: none;">
+        <tr>
+          <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">⚙️ Backend Development</td>
+          <td style="border: none; text-align: right;"><span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 3px 8px; border-radius: 4px;">APIs • Databases • Server</span></td>
+        </tr>
+      </table>
+      <div align="center" style="margin-top: 15px;">
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=nodejs" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Node.js</span></td>
+            <td style="border: none; width: 12px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=express" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Express.js</span></td>
+            <td style="border: none; width: 12px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=mongodb" width="35"/><br><span style="color: #8b949e; font-size: 11px;">MongoDB</span></td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
-</div>
 
----
-
-### 🗄️ Databases &nbsp; <img src="https://img.shields.io/badge/Store_•_Manage_•_Scale-161b22?style=flat-square" />
-
-<div align="center">
-<table>
+<!-- 4. Databases -->
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="55" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br/><sub><b>MongoDB</b></sub></td>
+    <td style="border: none; padding: 15px;">
+      <table width="100%" style="border: none;">
+        <tr>
+          <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">🗄️ Databases</td>
+          <td style="border: none; text-align: right;"><span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 3px 8px; border-radius: 4px;">Store • Manage • Scale</span></td>
+        </tr>
+      </table>
+      <div align="center" style="margin-top: 15px;">
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=mysql" width="35"/><br><span style="color: #8b949e; font-size: 11px;">MySQL</span></td>
+            <td style="border: none; width: 12px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=mongodb" width="35"/><br><span style="color: #8b949e; font-size: 11px;">MongoDB</span></td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
-</div>
 
----
-
-### 🧰 Tools & Technologies &nbsp; <img src="https://img.shields.io/badge/Code_•_Debug_•_Deploy-161b22?style=flat-square" />
-
-<div align="center">
-<table>
+<!-- 5. Tools & Technologies -->
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="55" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="55" /><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=visualstudio" width="55" /><br/><sub><b>Visual Studio</b></sub></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br/><sub><b>Postman</b></sub></td>
+    <td style="border: none; padding: 15px;">
+      <table width="100%" style="border: none;">
+        <tr>
+          <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">🧰 Tools & Technologies</td>
+          <td style="border: none; text-align: right;"><span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 3px 8px; border-radius: 4px;">Code • Debug • Deploy</span></td>
+        </tr>
+      </table>
+      <div align="center" style="margin-top: 15px;">
+        <table style="border-collapse: collapse; border: none;">
+          <tr>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 16px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=git" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Git</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 16px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=github" width="35"/><br><span style="color: #8b949e; font-size: 11px;">GitHub</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 16px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=vscode" width="35"/><br><span style="color: #8b949e; font-size: 11px;">VS Code</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 16px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=visualstudio" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Visual Studio</span></td>
+            <td style="border: none; width: 10px;"></td>
+            <td align="center" style="border: 1px solid #30363d; padding: 12px 16px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=postman" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Postman</span></td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>
-</div>
-
-
-
 ## 📂 Featured Projects
 
 ### 🛍️ E-Commerce Web Application
