@@ -26,7 +26,7 @@
 - 🚀 Continuously improving my skills and preparing to contribute to real-world development projects.
 
 ---
-<!-- تأثير الكتابة المتحركة في العنوان -->
+<!-- تأثير الكتابة المتحركة في العنوان<!-- تأثير الكتابة المتحركة في العنوان -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Explore+My+Tech+Stack+⚡;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
 </div>
@@ -62,7 +62,7 @@
 <p align="center">
   <br/><b>🗄️ Databases</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp; &nbsp; &nbsp; 
-  <img src="https://skillicons.dev/icons`?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 <p align="center">
