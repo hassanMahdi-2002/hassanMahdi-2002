@@ -34,9 +34,9 @@
 
   <p><b>💻 Programming Languages</b></p>
   <div style="margin-top: 8px; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=py" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=js" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=cpp" style="margin: 8px 8px;" />
+    <img src="https://skillicons.dev/icons?i=py" style="margin: 8px 8px;" />
+    <img src="https://skillicons.dev/icons?i=js" style="margin: 8px 8px;" />
   </div>
 
   <p><b>🌐 Frontend Development</b></p>
