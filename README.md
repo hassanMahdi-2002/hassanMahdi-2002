@@ -26,9 +26,9 @@
 - 🚀 Continuously improving my skills and preparing to contribute to real-world development projects.
 
 ---
-
+<!-- تأثير الكتابة المتحركة في العنوان -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+Tech+Stack!+⚡;Full-Stack+%26+AI+Developer;Building+Interactive+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Explore+My+Tech+Stack+⚡;Full-Stack+%26+AI+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -62,7 +62,7 @@
 <p align="center">
   <br/><b>🗄️ Databases</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp; &nbsp; &nbsp; 
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons`?i=mongodb" />
 </p>
 
 <p align="center">
@@ -75,14 +75,6 @@
   <img src="https://skillicons.dev/icons?i=xampp" /> &nbsp; &nbsp; 
   <img src="https://skillicons.dev/icons?i=ai" />
 </p>
-
-<br/>
-
-<!-- رسم بياني متحرك لموجات النشاط (Activity Wave Animation) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanMahdi-2002&theme=react-dark&hide_border=true&area=true" width="90%" />
-</div>
-
 
 ## 📂 Featured Projects
 
