@@ -30,7 +30,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=500&height=60&lines=Tech+Stack+%26+Skills" alt="Tech Stack & Skills" />
 
 <sub>Technologies and tools I use to build modern, fast and scalable web applications.</sub>
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Better%20Code%20•%20Better%20Products-0d1117?style=flat-square&labelColor=0d1117&color=22E58B" />
 </div>
 ---
