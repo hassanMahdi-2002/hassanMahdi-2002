@@ -26,77 +26,52 @@
 - 🚀 Continuously improving my skills and preparing to contribute to real-world development projects.
 
 ---
-
-## 🛠️ Tech Stack & Skills
+## ⚡ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Better_Code-Better_Products-00D9A6?style=flat-square&logo=github&logoColor=white" alt="Better Code, Better Products" />
+  <img src="https://img.shields.io/badge/Building-Better%20Digital%20Experiences-00D9A6?style=flat-square&logo=github&logoColor=white" alt="Building Better Digital Experiences" />
 </p>
 
-<p>
-  Technologies and tools I use to build modern, fast, and scalable web applications.
+<p align="left">
+  <em>Technologies and tools I use to build modern, responsive, and scalable web applications.</em>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<br>
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="C++, Python, JavaScript" />
 </p>
 
-</td>
-<td width="50%" valign="top">
+### 🎨 Frontend Development
 
-### 🌐 Frontend Development
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react&theme=dark" alt="HTML, CSS, Tailwind CSS, Bootstrap, jQuery, React" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 ### ⚙️ Backend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js, MongoDB" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 ### 🗄️ Databases
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### 🧰 Tools & Environment
 
-### 🧰 Tools & Technologies
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Postman" />
 </p>
 
-</td>
-</tr>
-</table>
+<br>
 
----
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
+<p align="left">
+  <sub>Always learning. Always building. Always improving.</sub>
 </p>
 
 ## 📂 Featured Projects
