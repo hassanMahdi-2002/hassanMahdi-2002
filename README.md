@@ -27,80 +27,54 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <b>💻 Programming Languages</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🌐 Frontend Development</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <b>⚙️ Backend Development</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🗄️ Databases</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🧰 Tools & Technologies</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,ai&perline=10" />
-  </a>
-</p>
----
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <b>💻 Programming Languages</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js&perline=10" />
-  </a>
-</p>
+<div align="center" style="margin-top: 30px;">
 
-<p align="center">
-  <b>🌐 Frontend Development</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react&perline=10" />
-  </a>
-</p>
+  <p><b>💻 Programming Languages</b></p>
+  <div style="margin-top: 8px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=cpp" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=py" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=js" style="margin: 0 6px;" />
+  </div>
 
-<p align="center">
-  <b>⚙️ Backend Development</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=10" />
-  </a>
-</p>
+  <p><b>🌐 Frontend Development</b></p>
+  <div style="margin-top: 8px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=html" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=css" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=jquery" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=react" style="margin: 0 6px;" />
+  </div>
 
-<p align="center">
-  <b>🗄️ Databases</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" />
-  </a>
-</p>
+  <p><b>⚙️ Backend Development</b></p>
+  <div style="margin-top: 8px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=express" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 6px;" />
+  </div>
 
-<p align="center">
-  <b>🧰 Tools & Technologies</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,ai&perline=10" />
-  </a>
-</p>
+  <p><b>🗄️ Databases</b></p>
+  <div style="margin-top: 8px; margin-bottom: 20px;">
+    <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 6px;" />
+  </div>
+
+  <p><b>🧰 Tools & Technologies</b></p>
+  <div style="margin-top: 8px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=git" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=github" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=postman" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=xampp" style="margin: 0 6px;" />
+    <img src="https://skillicons.dev/icons?i=ai" style="margin: 0 6px;" />
+  </div>
+
+</div>
+
 
 ## 📂 Featured Projects
 
