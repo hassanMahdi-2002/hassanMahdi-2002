@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Hassan+Mahdi+%F0%9F%91%8B" alt="Hi there, I'm Hassan Mahdi" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Hassan+Mahdi+%F0%9F%91%8B" alt="Hi there, I'm Hassan Mahdi" />
 
 <br/>
 
