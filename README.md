@@ -27,6 +27,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Welcome+to+my+Tech+Stack!+⚡;Full-Stack+%26+AI+Developer;Building+Interactive+Web+Apps" alt="Typing SVG" />
+</div>
+
+<br/>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -70,6 +75,13 @@
   <img src="https://skillicons.dev/icons?i=xampp" /> &nbsp; &nbsp; 
   <img src="https://skillicons.dev/icons?i=ai" />
 </p>
+
+<br/>
+
+<!-- رسم بياني متحرك لموجات النشاط (Activity Wave Animation) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanMahdi-2002&theme=react-dark&hide_border=true&area=true" width="90%" />
+</div>
 
 
 ## 📂 Featured Projects
