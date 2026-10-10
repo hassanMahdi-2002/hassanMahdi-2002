@@ -31,7 +31,7 @@
 
 <sub>Technologies and tools I use to build modern, fast and scalable web applications.</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Better%20Code%20•%20Better%20Products-0d1117?style=flat-square&labelColor=0d1117&color=22E58B" />
+<img src="https://img.shields.io/badge/Better%20Code%20•%20Better%20Products-0d1117?style=flat-square&labelColor=000&color=22E58B" />
 </div>
 
 
