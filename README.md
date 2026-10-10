@@ -35,29 +35,27 @@
 <br/>
 
 <!-- 1. Programming Languages -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
+<table width="100%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td style="border: none; padding: 15px;">
-      <div style="font-weight: bold; color: #ffffff; margin-bottom: 15px; font-size: 16px;">💻 Programming Languages</div>
-      <div align="center">
-        <table style="border-collapse: collapse; border: none;">
-          <tr>
-            <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><span style="color: #8b949e; font-size: 12px;">C++</span></td>
-            <td style="border: none; width: 15px;"></td>
-            <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=py" width="40"/><br><span style="color: #8b949e; font-size: 12px;">Python</span></td>
-            <td style="border: none; width: 15px;"></td>
-            <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><span style="color: #8b949e; font-size: 12px;">JavaScript</span></td>
-          </tr>
-        </table>
-      </div>
+    <td align="center" style="border: none; padding: 15px;">
+      <div style="font-weight: bold; color: #ffffff; margin-bottom: 15px; font-size: 16px; text-align: center;">💻 Programming Languages</div>
+      <table align="center" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br><span style="color: #8b949e; font-size: 12px;">C++</span></td>
+          <td style="border: none; width: 15px;"></td>
+          <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=py" width="40"/><br><span style="color: #8b949e; font-size: 12px;">Python</span></td>
+          <td style="border: none; width: 15px;"></td>
+          <td align="center" style="border: 1px solid #30363d; padding: 15px 25px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><span style="color: #8b949e; font-size: 12px;">JavaScript</span></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 <!-- 2. Frontend Development -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
+<table width="100%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td style="border: none; padding: 15px;">
+    <td align="center" style="border: none; padding: 15px;">
       <table width="100%" style="border: none;">
         <tr>
           <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">🌐 Frontend Development</td>
@@ -65,7 +63,7 @@
         </tr>
       </table>
       <div align="center" style="margin-top: 15px;">
-        <table style="border-collapse: collapse; border: none;">
+        <table align="center" style="border-collapse: collapse; border: none;">
           <tr>
             <td align="center" style="border: 1px solid #30363d; padding: 12px 18px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=html" width="35"/><br><span style="color: #8b949e; font-size: 11px;">HTML</span></td>
             <td style="border: none; width: 10px;"></td>
@@ -86,9 +84,9 @@
 </table>
 
 <!-- 3. Backend Development -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
+<table width="100%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td style="border: none; padding: 15px;">
+    <td align="center" style="border: none; padding: 15px;">
       <table width="100%" style="border: none;">
         <tr>
           <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">⚙️ Backend Development</td>
@@ -96,7 +94,7 @@
         </tr>
       </table>
       <div align="center" style="margin-top: 15px;">
-        <table style="border-collapse: collapse; border: none;">
+        <table align="center" style="border-collapse: collapse; border: none;">
           <tr>
             <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=nodejs" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Node.js</span></td>
             <td style="border: none; width: 12px;"></td>
@@ -111,9 +109,9 @@
 </table>
 
 <!-- 4. Databases -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
+<table width="100%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; margin-bottom: 20px;">
   <tr>
-    <td style="border: none; padding: 15px;">
+    <td align="center" style="border: none; padding: 15px;">
       <table width="100%" style="border: none;">
         <tr>
           <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">🗄️ Databases</td>
@@ -121,7 +119,7 @@
         </tr>
       </table>
       <div align="center" style="margin-top: 15px;">
-        <table style="border-collapse: collapse; border: none;">
+        <table align="center" style="border-collapse: collapse; border: none;">
           <tr>
             <td align="center" style="border: 1px solid #30363d; padding: 12px 22px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=mysql" width="35"/><br><span style="color: #8b949e; font-size: 11px;">MySQL</span></td>
             <td style="border: none; width: 12px;"></td>
@@ -134,9 +132,9 @@
 </table>
 
 <!-- 5. Tools & Technologies -->
-<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
+<table width="100%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
   <tr>
-    <td style="border: none; padding: 15px;">
+    <td align="center" style="border: none; padding: 15px;">
       <table width="100%" style="border: none;">
         <tr>
           <td style="border: none; font-weight: bold; color: #ffffff; font-size: 16px;">🧰 Tools & Technologies</td>
@@ -144,7 +142,7 @@
         </tr>
       </table>
       <div align="center" style="margin-top: 15px;">
-        <table style="border-collapse: collapse; border: none;">
+        <table align="center" style="border-collapse: collapse; border: none;">
           <tr>
             <td align="center" style="border: 1px solid #30363d; padding: 12px 16px; border-radius: 8px; background: #161b22;"><img src="https://skillicons.dev/icons?i=git" width="35"/><br><span style="color: #8b949e; font-size: 11px;">Git</span></td>
             <td style="border: none; width: 10px;"></td>
