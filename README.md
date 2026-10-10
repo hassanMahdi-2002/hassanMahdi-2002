@@ -30,50 +30,46 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<div align="center" style="margin-top: 30px;">
+<p align="center">
+  <b>💻 Programming Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp" /> &nbsp; &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=py" /> &nbsp; &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
-  <p><b>💻 Programming Languages</b></p>
-  <div style="margin-top: 8px; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=cpp" style="margin: 80px 80px;" />
-    <img src="https://skillicons.dev/icons?i=py" style="margin: 80px 80px;" />
-    <img src="https://skillicons.dev/icons?i=js" style="margin: 80px 80px;" />
-  </div>
+<p align="center">
+  <br/><b>🌐 Frontend Development</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=css" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=tailwind" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=jquery" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-  <p><b>🌐 Frontend Development</b></p>
-  <div style="margin-top: 8px; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=html" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=css" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=jquery" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=react" style="margin: 0 6px;" />
-  </div>
+<p align="center">
+  <br/><b>⚙️ Backend Development</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp; &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=express" /> &nbsp; &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-  <p><b>⚙️ Backend Development</b></p>
-  <div style="margin-top: 8px; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=express" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 6px;" />
-  </div>
+<p align="center">
+  <br/><b>🗄️ Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql" /> &nbsp; &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-  <p><b>🗄️ Databases</b></p>
-  <div style="margin-top: 8px; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 0 6px;" />
-  </div>
-
-  <p><b>🧰 Tools & Technologies</b></p>
-  <div style="margin-top: 8px; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=git" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=github" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=postman" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=xampp" style="margin: 0 6px;" />
-    <img src="https://skillicons.dev/icons?i=ai" style="margin: 0 6px;" />
-  </div>
-
-</div>
+<p align="center">
+  <br/><b>🧰 Tools & Technologies</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=github" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=vscode" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=visualstudio" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=postman" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=xampp" /> &nbsp; &nbsp; 
+  <img src="https://skillicons.dev/icons?i=ai" />
+</p>
 
 
 ## 📂 Featured Projects
