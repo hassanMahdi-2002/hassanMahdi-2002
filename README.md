@@ -103,9 +103,11 @@
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br/><sub><b>VS Code</b></sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=visualstudio" width="55" /><br/><sub><b>Visual Studio</b></sub></td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br/><sub><b>Compass</b></sub></td>
   </tr>
 </table>
 </div>
+
 ## 📂 Featured Projects
 
 ### 🛍️ E-Commerce Web Application
