@@ -27,48 +27,76 @@
 
 ---
 
-# 💻 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-<p align="center">Technologies and tools I use to build modern, fast and scalable web applications.</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Better_Code-Better_Products-00D9A6?style=flat-square&logo=github&logoColor=white" alt="Better Code, Better Products" />
+</p>
 
-</div>
+<p>
+  Technologies and tools I use to build modern, fast, and scalable web applications.
+</p>
 
----
-
-### 🟢 Programming Languages & Frontend
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" align="center">
-      <b>💻 Programming Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,py,js" />
-    </td>
-    <td width="50%" align="center">
-      <b>🌐 Frontend Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react" />
-    </td>
-  </tr>
-</table>
+    <td width="50%" valign="top">
 
-### ⚙️ Backend & Databases
+### 💻 Programming Languages
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <b>⚙️ Backend Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-    </td>
-    <td width="50%" align="center">
-      <b>🗄️ Databases</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="C++, Python, JavaScript" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react&theme=dark" alt="HTML, CSS, Tailwind CSS, Bootstrap, jQuery, React" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express.js, MongoDB" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,xampp" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Postman" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
 </p>
 
 ## 📂 Featured Projects
