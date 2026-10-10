@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi there, I'm Hassan Mahdi 👋</h1>
 
 <h3 align="center">
@@ -123,4 +123,3 @@ A web-based tool for generating customizable VHDL code for digital logic compone
 <p align="center">
   <i>Learning, building, and improving one project at a time.</i>
 </p>
-```
