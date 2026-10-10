@@ -26,125 +26,50 @@
 - 🚀 Continuously improving my skills and preparing to contribute to real-world development projects.
 
 ---
-<!-- تأثير الكتابة المتحركة في العنوان<!-- تأثير الكتابة المتحركة في العنوان -->
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px; margin-bottom: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  
-  <!-- Header Section -->
-  <table width="100%" style="border-collapse: collapse; border: none; background: transparent; margin-bottom: 25px;">
-    <tr>
-      <td style="vertical-align: middle; border: none;">
-        <div style="display: flex; align-items: center; gap: 15px;">
-          <span style="background: #1f6feb; color: #ffffff; padding: 10px 14px; border-radius: 10px; font-weight: bold; font-family: monospace; font-size: 18px;">&lt;/&gt;</span>
-          <div>
-            <h2 style="margin: 0; color: #ffffff; font-size: 24px; font-weight: bold;">Tech Stack & <span style="color: #3fb950;">Skills</span></h2>
-            <p style="margin: 6px 0 0 0; color: #8b949e; font-size: 14px;">Technologies and tools I use to build modern, fast and scalable web applications.</p>
-          </div>
-        </div>
-      </td>
-      <td style="text-align: right; vertical-align: middle; border: none; color: #3fb950; font-style: italic; font-size: 14px; line-height: 1.4;">
-        Better Code<br>Better Products
-      </td>
-    </tr>
-  </table>
 
-  <!-- Row 1: Programming Languages & Frontend Development -->
-  <table width="100%" style="border-collapse: collapse; border: none; background: transparent; margin-bottom: 20px;">
-    <tr>
-      <!-- Programming Languages Card -->
-      <td width="49%" style="vertical-align: top; border: none; padding-right: 10px;">
-        <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; height: 100%;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 12px;">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="font-size: 18px;">💻</span>
-              <span style="color: #ffffff; font-weight: bold; font-size: 16px;">Programming Languages</span>
-            </div>
-          </div>
-          <div align="center" style="padding: 15px 0;">
-            <img src="https://skillicons.dev/icons?i=cpp,py,js" />
-          </div>
-        </div>
-      </td>
+# 💻 Tech Stack & Skills
 
-      <!-- Frontend Development Card -->
-      <td width="49%" style="vertical-align: top; border: none; padding-left: 10px;">
-        <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px; height: 100%;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 12px;">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="font-size: 18px;">🌐</span>
-              <span style="color: #ffffff; font-weight: bold; font-size: 16px;">Frontend Development</span>
-            </div>
-            <span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 4px 8px; border-radius: 6px;">UI • Components • Performance</span>
-          </div>
-          <div align="center" style="padding: 15px 0;">
-            <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react" />
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Row 2: Backend Development Card -->
-  <table width="100%" style="border-collapse: collapse; border: none; background: transparent; margin-bottom: 20px;">
-    <tr>
-      <td style="vertical-align: top; border: none;">
-        <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 12px;">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="font-size: 18px;">⚙️</span>
-              <span style="color: #ffffff; font-weight: bold; font-size: 16px;">Backend Development</span>
-            </div>
-            <span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 4px 8px; border-radius: 6px;">APIs • Databases • Server</span>
-          </div>
-          <div align="center" style="padding: 15px 0;">
-            <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Row 3: Databases Card -->
-  <table width="100%" style="border-collapse: collapse; border: none; background: transparent; margin-bottom: 20px;">
-    <tr>
-      <td style="vertical-align: top; border: none;">
-        <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 12px;">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="font-size: 18px;">🗄️</span>
-              <span style="color: #ffffff; font-weight: bold; font-size: 16px;">Databases</span>
-            </div>
-            <span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 4px 8px; border-radius: 6px;">Store • Manage • Scale</span>
-          </div>
-          <div align="center" style="padding: 15px 0;">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Row 4: Tools & Technologies Card -->
-  <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
-    <tr>
-      <td style="vertical-align: top; border: none;">
-        <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 12px;">
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <span style="font-size: 18px;">🧰</span>
-              <span style="color: #ffffff; font-weight: bold; font-size: 16px;">Tools & Technologies</span>
-            </div>
-            <span style="color: #8b949e; font-size: 11px; background: #21262d; padding: 4px 8px; border-radius: 6px;">Code • Debug • Deploy</span>
-          </div>
-          <div align="center" style="padding: 15px 0;">
-            <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,xampp" />
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+<p align="center">Technologies and tools I use to build modern, fast and scalable web applications.</p>
 
 </div>
 
+---
+
+### 🟢 Programming Languages & Frontend
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>💻 Programming Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,py,js" />
+    </td>
+    <td width="50%" align="center">
+      <b>🌐 Frontend Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,react" />
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend & Databases
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>⚙️ Backend Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </td>
+    <td width="50%" align="center">
+      <b>🗄️ Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    </td>
+  </tr>
+</table>
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,xampp" />
+</p>
 
 ## 📂 Featured Projects
 
