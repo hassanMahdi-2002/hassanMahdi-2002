@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=22E58B&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Hassan+Mahdi+%F0%9F%91%8B" alt="Hi there, I'm Hassan Mahdi" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Hassan+Mahdi+%F0%9F%91%8B" alt="Hi there, I'm Hassan Mahdi" />
 
 <br/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/FULL--STACK%20%26%20AI%20DEVELOPER-22E58B?style=for-the-badge&labelColor=0d1117&color=22E58B" alt="Full-Stack & AI Developer" />
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-1F6FEB?style=for-the-badge&labelColor=0d1117&color=1F6FEB" alt="Full-Stack Developer" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 
 <table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
   <tr>
-    <td style="padding: 20px; border: none; color: #c9d1d9; line-height: 1.6;">
+    <td style="padding: 20px; border: none; color: #c9d1d9; line-height: 1.8;">
       <p style="margin: 0 0 12px 0;">🎓 <b>Computer & Systems Engineering Graduate</b> with a strong foundation in software engineering and system architecture.</p>
       <p style="margin: 0 0 12px 0;">🚀 <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b> (MongoDB, Express.js, React.js, Node.js).</p>
       <p style="margin: 0 0 12px 0;">🛒 Developed full-fledged applications including e-commerce platforms (e.g., <b>FreshCart</b>) with dynamic catalogs, cart systems, and secure authentication.</p>
