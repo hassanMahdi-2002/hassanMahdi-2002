@@ -152,6 +152,9 @@ An interactive country exploration application that displays country information
 
 🔗 [Live Demo](https://around-the-world-two-sigma.vercel.app/) | [Source Code](https://github.com/hassanMahdi-2002/around-the-world)
 
+---
+
+
 ### 📦 Product Management System
 
 A product management application that supports creating, displaying, updating, searching, and deleting products, with input validation and local storage.
