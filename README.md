@@ -116,23 +116,33 @@
 </table>
 </div>
 
+---
+
+
 ## 📂 Featured Projects
 
-### 🛍️ E-Commerce Web Application
+### 🛍️ FreshCart — E-commerce Web Application
 
-A responsive e-commerce application built with React, featuring product browsing, shopping cart management, quantity updates, order summaries, and checkout functionality.
+
+
+A responsive e-commerce frontend built with React, allowing users to browse products, explore brands, view product details, manage their shopping cart, and complete checkout using cash-on-delivery or online payment.
 
 **Key Features**
-- Product listing and API integration.
-- Add and remove products from the shopping cart.
-- Update product quantities and calculate totals.
-- User authentication and protected routes.
-- Shipping details and cash or online checkout integration.
-- Responsive user interface.
+- User registration and login.
+- Product listing and product details.
+- Brand browsing and brand-based product filtering.
+- Shopping cart management, including quantity updates and item removal.
+- Checkout with shipping details, cash-on-delivery, and online payment.
+- User profile and order history.
 
-**Tech Stack:** React.js, JavaScript, Axios, React Router, Bootstrap, REST APIs.
+**Tech Stack:** React, JavaScript, React Router, Context API, Axios, Bootstrap 5, Formik, JWT Decode, and REST APIs.
 
-🔗 [Live Demo](YOUR_ECOMMERCE_LIVE_DEMO) | [Source Code](YOUR_ECOMMERCE_GITHUB_REPO)
+
+
+🔗 [Live Demo](https://fresh-cart-e-commerce-app-git-main-hassan-ae68.vercel.app/) | [Source Code](https://github.com/hassanMahdi-2002/FreshCart-E-Commerce-App)
+
+---
+
 
 ### 🌍 Around the World
 
