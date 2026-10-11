@@ -184,7 +184,7 @@ A product management application that supports creating, displaying, updating, s
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/hassan-mahdi-82b748352">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hassanmahdi102002@gmail.com">
