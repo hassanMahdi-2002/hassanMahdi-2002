@@ -167,17 +167,21 @@ A product management application that supports creating, displaying, updating, s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hassanMahdi-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanMahdi-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
 
 ---
 
 ## 📫 Let's Connect
+
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
