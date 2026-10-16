@@ -121,9 +121,23 @@
 
 ## 📂 Featured Projects
 
+### 🏥 CareNexa — Clinic Booking & Healthcare Management System
+
+A responsive clinic management web application built with React and Bootstrap that simplifies patient-doctor interactions, appointment bookings, and medical records management.
+
+**Key Features:**
+- Multi-role registration (Patients & Doctors / Admins).
+- Protected routes based on user authentication state.
+- Interactive doctor directory & appointment scheduling.
+- Patient medical records and doctor management dashboard.
+
+**Tech Stack:** React.js, Bootstrap 5, Formik, React Router v6, LocalStorage.
+
+🔗 [Live Demo](https://carenexa-clinic-system-6pcj75rgf-hassan-ae68.vercel.app/) | [Source Code](https://github.com/hassanMahdi-2002/carenexa-clinic-system)
+
+---
+
 ### 🛍️ FreshCart — E-commerce Web Application
-
-
 
 A responsive e-commerce frontend built with React, allowing users to browse products, explore brands, view product details, manage their shopping cart, and complete checkout using cash-on-delivery or online payment.
 
