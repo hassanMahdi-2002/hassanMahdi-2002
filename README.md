@@ -184,7 +184,7 @@ A product management application that supports creating, displaying, updating, s
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanMahdi-2002&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=hassanMahdi-2002&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
   <br/><br/>
   
