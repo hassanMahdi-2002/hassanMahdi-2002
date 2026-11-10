@@ -182,11 +182,12 @@ A product management application that supports creating, displaying, updating, s
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hassanMahdi-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" />
+<img src="https://your-project.vercel.app/api?username=hassanMahdi-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassanMahdi-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://your-project.vercel.app/api/top-langs/?username=hassanMahdi-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
 
 <div align="center">
