@@ -181,7 +181,20 @@ A product management application that supports creating, displaying, updating, s
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanMahdi-2002&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanMahdi-2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+</div>
+
+
+
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hassanMahdi-2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub Stats" />
 
@@ -189,7 +202,7 @@ A product management application that supports creating, displaying, updating, s
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanMahdi-2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-</div>
+</div> -->
 
 
 ---
